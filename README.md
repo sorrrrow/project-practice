@@ -13,9 +13,9 @@
 
 **2. Написание документов в Markdown.**
 
-[`Описание проекта`](./project-description.md)
+[Описание проекта](./project-description.md)
 
-[`Журнал прогресса`](./progress-log.md)
+[Журнал прогресса](./progress-log.md)
 
 - [ ] Выполнено.
 
