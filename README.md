@@ -19,7 +19,8 @@
 
 **3. Создание статического веб-сайта.**
 
-https://github.com/sorrrrow/project-practice/tree/cite
+[Сайт по проектной деятельности](https://sorrrrow.github.io/project-practice/
+)
 
 **4. Взаимодействие с организацией-партнером.**
 
